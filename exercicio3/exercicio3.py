@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
     # Testing the wrapper
     object = Figura(5, 4)
-    print(object.area_quadrado())  # Output: 25
+    print(object.area_quadrado()) 
 
     # Testing the setter
     object.set_a(3)
